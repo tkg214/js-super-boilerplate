@@ -52,3 +52,5 @@
 - a mock store for your testing Redux async action creators and middleware
 * [fetch-mock](http://www.wheresrhys.co.uk/fetch-mock/)
 - allows mocking http requests made using Fetch
+* [React Router](https://reacttraining.com/react-router/)
+- a library to navigate between pages in your React app. It can be used on both the client and the server.
