@@ -22,9 +22,15 @@
     "babel-polyfill": "^6.23.0",
     "compression": "^1.6.2",
     "express": "^4.15.3",
+    "immutable": "4.0.0-rc.2",
+    "isomorphic-fetch": "^2.2.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-hot-loader": "next"
+    "react-hot-loader": "next",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "redux-actions": "^2.2.1",
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
@@ -44,11 +50,13 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^3.0.2 || ^4.0.0",
     "eslint-plugin-react": "^6.9.0",
+    "fetch-mock": "^5.12.1",
     "flow-bin": "^0.41.0",
     "husky": "^0.13.2",
     "jest": "^19.0.2",
     "nodemon": "^1.11.0",
     "pm2": "^2.5.0",
+    "redux-mock-store": "^1.2.3",
     "rimraf": "^2.6.1",
     "webpack": "^3.1.0",
     "webpack-dev-server": "^2.5.1"

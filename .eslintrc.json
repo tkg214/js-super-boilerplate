@@ -12,6 +12,9 @@
     "no-unexpected-multiline": 2,
     "compat/compat": 2
   },
+  "settings": {
+    "polyfills": ["fetch"]
+  },
   "env": {
     "browser": true,
     "jest": true
