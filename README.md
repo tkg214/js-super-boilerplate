@@ -56,3 +56,5 @@
 - a library to navigate between pages in your React app. It can be used on both the client and the server.
 * [React Helmet](https://github.com/nfl/react-helmet)
 - a library to inject content to the head of a React app, on both the client and the server.
+* [Socket.IO](https://github.com/socketio/socket.io)
+- a library to easily deal with Websockets. It provides a convenient API and fallback for browsers that don't support Websockets.
