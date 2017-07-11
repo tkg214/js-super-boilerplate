@@ -54,3 +54,5 @@
 - allows mocking http requests made using Fetch
 * [React Router](https://reacttraining.com/react-router/)
 - a library to navigate between pages in your React app. It can be used on both the client and the server.
+* [React Helmet](https://github.com/nfl/react-helmet)
+- a library to inject content to the head of a React app, on both the client and the server.
