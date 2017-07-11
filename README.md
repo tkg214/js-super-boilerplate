@@ -1,4 +1,4 @@
-# Super JavaScript Stack Boilerplate
+# JavaScript Super Stack Boilerplate
 # Documentation
 * [Node](https://nodejs.org/)
 - a JavaScript runtime environment. It is mostly used for Back-End development, but also for general scripting. In the context of Front-End development, it can be used to perform a whole bunch of tasks like linting, testing, and assembling files.
@@ -58,3 +58,8 @@
 - a library to inject content to the head of a React app, on both the client and the server.
 * [Socket.IO](https://github.com/socketio/socket.io)
 - a library to easily deal with Websockets. It provides a convenient API and fallback for browsers that don't support Websockets.
+* [Bootstrap](http://getbootstrap.com/)
+- a library of UI components.
+* [JSS](http://cssinjs.org/?v=v8.0.0)
+- a CSS-in-JS library to write your styles in JavaScript and inject them into your app.
+* [React JSS](https://github.com/cssinjs/react-jss)
